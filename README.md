@@ -14,10 +14,4 @@ Make sure you have Vagrant installed and operational in your machine. Then just 
   
 See DokuWiki in your browser at http://192.138.33.10
 
-## And beyond...
-
-... reading the sources
-
-## Links
-
-
+Go beyond reading the sources
